@@ -1,9 +1,7 @@
 
 # Functional RBTree
 
-run tests 
-
-## Running Tests
+## Usage
 
 To compile and run tests, run the following commands
 
